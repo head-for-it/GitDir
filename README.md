@@ -1,0 +1,2 @@
+# GitDir
+my practice
